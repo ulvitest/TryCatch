@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\ExeptionDll\bin\Debug\netcoreapp3.1\ExeptionDll.deps.json
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\ExeptionDll\bin\Debug\netcoreapp3.1\ExeptionDll.dll
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\ExeptionDll\bin\Debug\netcoreapp3.1\ExeptionDll.pdb
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\ExeptionDll\obj\Debug\netcoreapp3.1\ExeptionDll.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\ExeptionDll\obj\Debug\netcoreapp3.1\ExeptionDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\ExeptionDll\obj\Debug\netcoreapp3.1\ExeptionDll.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\ExeptionDll\obj\Debug\netcoreapp3.1\ExeptionDll.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\ExeptionDll\obj\Debug\netcoreapp3.1\ExeptionDll.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\ExeptionDll\obj\Debug\netcoreapp3.1\ExeptionDll.dll
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\ExeptionDll\obj\Debug\netcoreapp3.1\ExeptionDll.pdb

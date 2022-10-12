@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TryCatchPractise/1.0.0": {
+        "dependencies": {
+          "ExeptionDll": "1.0.0"
+        },
+        "runtime": {
+          "TryCatchPractise.dll": {}
+        }
+      },
+      "ExeptionDll/1.0.0": {
+        "runtime": {
+          "ExeptionDll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TryCatchPractise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExeptionDll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

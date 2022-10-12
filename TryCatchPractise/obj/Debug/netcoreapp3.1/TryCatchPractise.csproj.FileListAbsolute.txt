@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\bin\Debug\netcoreapp3.1\TryCatchPractise.exe
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\bin\Debug\netcoreapp3.1\TryCatchPractise.deps.json
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\bin\Debug\netcoreapp3.1\TryCatchPractise.runtimeconfig.json
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\bin\Debug\netcoreapp3.1\TryCatchPractise.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\bin\Debug\netcoreapp3.1\TryCatchPractise.dll
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\bin\Debug\netcoreapp3.1\TryCatchPractise.pdb
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\obj\Debug\netcoreapp3.1\TryCatchPractise.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\obj\Debug\netcoreapp3.1\TryCatchPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\obj\Debug\netcoreapp3.1\TryCatchPractise.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\obj\Debug\netcoreapp3.1\TryCatchPractise.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\obj\Debug\netcoreapp3.1\TryCatchPractise.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\obj\Debug\netcoreapp3.1\TryCatchPractise.dll
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\obj\Debug\netcoreapp3.1\TryCatchPractise.pdb
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\obj\Debug\netcoreapp3.1\TryCatchPractise.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\bin\Debug\netcoreapp3.1\ExeptionDll.dll
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\bin\Debug\netcoreapp3.1\ExeptionDll.pdb
+C:\Users\Lenovo\Desktop\P134\TryCatchPractise\TryCatchPractise\obj\Debug\netcoreapp3.1\TryCatchPractise.csproj.CopyComplete
